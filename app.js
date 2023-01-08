@@ -11,7 +11,7 @@ const Menu = clui.Menu;
 
 
 // Replace TOKEN with your GitHub personal access token
-const token = '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';
+const token = 'Add your Token here';
 
 const rl = readline.createInterface({
   input: process.stdin,
